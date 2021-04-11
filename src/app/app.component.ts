@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  appTitle = 'Angular todo application'
+  title = '';
+  appTitle = 'Angular todo application';
 
 }
